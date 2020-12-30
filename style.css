@@ -1,4 +1,14 @@
-/* #name {font-weight: bold;} */
+ /* #name {font-weight: bold;} */
 body{
-    background-color: ;
+   background-color: lightgray;
    }
+
+ .bio{
+    float: right;
+    }
+      .aboutme {
+          float: left;
+          width: 200px;
+      }
+      .background
+       {background:white}
