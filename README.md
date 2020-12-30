@@ -1,4 +1,4 @@
-#                                             CODE REFACTORING
+#                                             Portfolio
 
 This is my project where I created a portfolio from scratch. My portfolio includes three tabs that detail different aspects of my life.The contact tab is my contact information includung . My portfolio page has my hobbies along with photos as descriptions of them. Lastly,  The About tab gives a brief introduction of who I am and my career and personal interest. All tabs have responsive design, properly utilizes Bootstrap components and meet all other minimum requirements.
 ## Contributing
