@@ -33,6 +33,8 @@ background: radial-gradient(circle, rgba(131,58,180,1) 0%, rgba(247,29,253,1) 50
       height: 400px;}
    .name{
     font-size: 75px;
+    font-family: Papyrus, Herculanum, Party LET, Curlz MT, Harrington, fantasy;
+
    }
    .nav-link-index{
     font-family: Papyrus, Herculanum, Party LET, Curlz MT, Harrington, fantasy;
