@@ -16,7 +16,11 @@ This is my project where I created an updated portfolio with all of the acceptan
 
 
 [link to my assignment](https://rabiahfh.github.io/Rabiah-Hogansportfolio/)
-
+## License
+MIT
+## Contact Information
+## Name: Rabiah Hogans <br>
+## Email: hogansrabiah@gmail.com
 ## Contributing
 
 
