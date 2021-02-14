@@ -11,7 +11,7 @@ This is my project where I created an updated portfolio with all of the acceptan
 ![photo of my assignment](./Images/read-me-photo.png)
 
 
-[link to my assignment](https://rabiahfh.github.io/Weather-Dashboard/)
+[link to my assignment](https://rabiahfh.github.io/Rabiah-Hogansportfolio/)
 
 ## Contributing
 
