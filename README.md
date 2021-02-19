@@ -8,9 +8,9 @@ This is my project where I created an updated portfolio with all of the acceptan
 - CSS
 - JAVASCRIPT
 - JQUERY
-![photo of my assignment](./Images/readme-port1.png)
-![photo of my assignment](./Images/readme-port2.png)
-![photo of my assignment](./Images/readme-port3.png)
+![photo of my assignment](./Images/readme-port1.PNG)
+![photo of my assignment](./Images/readme-port2.PNG)
+![photo of my assignment](./Images/readme-port3.PNG)
 
 
 
